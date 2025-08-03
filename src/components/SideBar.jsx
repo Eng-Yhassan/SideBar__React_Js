@@ -12,7 +12,7 @@ function SideBar() {
                 <div className="bg-green-600 w-[250px] h-screen text-white shadow-lg shadow-black">
 
                     {/* Side Bar */}
-                    <div className="text-3xl text-right mr-4">
+                    <div className="text-3xl text-right mr-4 pt-2">
 
                     <Icons Icons="fa-bars" />
                     </div>
